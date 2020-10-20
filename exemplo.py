@@ -1,6 +1,6 @@
-# a = append
-# w = cria tabela
-# r = le
+# a = append acrescenta e não perde o que tem
+# w = cria tabela do zero e perde o que já tem
+# r = le o arquivo
 
 
 arquivo = open("exemplo.txt", "r")
